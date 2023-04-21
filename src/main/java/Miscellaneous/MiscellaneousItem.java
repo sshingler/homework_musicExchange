@@ -1,4 +1,7 @@
 package Miscellaneous;
+import Behaviours.ISell;
 
-public class MiscellaneousItem {
+public abstract class MiscellaneousItem implements ISell{
+
+
 }
